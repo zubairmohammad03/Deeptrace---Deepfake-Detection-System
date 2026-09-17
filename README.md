@@ -63,11 +63,11 @@ Upload → Preprocess → EfficientNet-B4 → GRAD-CAM → Forensic Scoring → 
 
 | Dashboard | GRAD-CAM Heatmap |
 |---|---|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Heatmap](docs/screenshots/gradcam-heatmap.png) |
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Heatmap](docs/screenshots/heatmap.png) |
 
 | Scan History | PDF Report |
 |---|---|
-| ![History](docs/screenshots/scan-history.png) | ![Report](docs/screenshots/pdf-report.png) |
+| ![History](docs/screenshots/history.png) | ![Report](docs/screenshots/report.png) |
 
 ---
 
