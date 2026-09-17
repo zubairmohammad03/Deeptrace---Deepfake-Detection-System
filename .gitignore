@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
+
+# Python virtual environments
+venv/
+
+# Model weights / checkpoints
+*.pt
+checkpoints/
+
+# OS
+.DS_Store
+
+# Logs
+*.log

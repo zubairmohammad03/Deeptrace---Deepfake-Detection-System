@@ -1,0 +1,17 @@
+# Core — always needed
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+Pillow==10.3.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+httpx==0.27.0
+python-dotenv==1.0.1
+pydantic==2.7.1
+pydantic-settings==2.3.1
+
+# Optional — only needed if you have a trained model (best_model.pt)
+# Install with: pip install torch torchvision timm
+# torch>=2.2.0
+# torchvision>=0.17.0
+# timm>=0.9.16
