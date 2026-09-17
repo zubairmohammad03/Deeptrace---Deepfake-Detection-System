@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+venv/
+*.pt
+*.pth
+checkpoints/
+*.log
+.DS_Store
+models/weights/
+ml/datasets/
